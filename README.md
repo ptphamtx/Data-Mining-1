@@ -1,5 +1,4 @@
-# Data-Mining-1
-# Data Analysis of Learner Eagerness
+# Survey of Learner Eagerness
 
 ![Survey Results](Survey.png)
 
